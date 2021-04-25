@@ -1,0 +1,1 @@
+# rails-svelte-inertia-model-configuration
