@@ -29,7 +29,7 @@ Step 8: Change hello_svelte.js file for svelte_router.js and add this code:
 
 Step 9: In the <head></head> from application.html.erb add this ruby code:
 
-![Screenshot from 2021-04-25 19-02-38](https://user-images.githubusercontent.com/24325642/116011013-fd97f980-a5f8-11eb-827e-111cd44e725a.png)
+![Screenshot from 2021-04-25 20-12-00](https://user-images.githubusercontent.com/24325642/116012695-8ff0cb00-a602-11eb-9dd9-e767edb5b039.png)
 
 
 Step 10: Create your svelte file in javascript/pages folder using the same name from inertia attribute in root action from Step 7. Ex : home.svelte.
