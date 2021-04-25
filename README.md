@@ -2,7 +2,7 @@
 
 ## This project is a model for you start your rails project with inertia js and svelte.
 
-*Choice between clone this project or follow steps below for begin your own project.*
+*Choice between fork this project or follow steps below for begin your own project.*
 
 Step 1 : Initialize a new rails project with the command `rails new my-name-project`.
 
