@@ -35,7 +35,7 @@
 	}
 </style>
   
-<h1>Hello Rails I´m {author} configuring rails with Inertia JS and Svelte</h1>
+<h1>Hello Rubiest! I´m {author} configuring rails project with Inertia JS and Svelte</h1>
 
 <div class="container">
   <div class="first-block">
