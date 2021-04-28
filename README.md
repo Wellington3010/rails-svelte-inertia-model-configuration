@@ -38,4 +38,4 @@ Step 11:  Add this code in your home.svelte file :
 
 ![Screenshot from 2021-04-25 19-00-22](https://user-images.githubusercontent.com/24325642/116010954-85313880-a5f8-11eb-97a4-9669db889eec.png)
 
-Step 12 : Execute in your main folder project the command `rails s --port 3000` for local debug.
+Step 12 : Execute in your main folder project the command `rails s --port 3000` for local debug and access address http://localhost:3000 in web browser.
